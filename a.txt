@@ -6,3 +6,5 @@ master update
 
 test
 checkout:
+
+update last
