@@ -3,3 +3,6 @@ test local2origin
 dev update
 
 master update
+
+test
+checkout:
